@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 Hey Dini
-What, go talk to your phone  
-=======
-Hey Dini
-What, go talk to your phone  
->>>>>>> f5691023dc772e3c6e1e0b84126e8e77d50c08b0
+What, go talk to your phone
